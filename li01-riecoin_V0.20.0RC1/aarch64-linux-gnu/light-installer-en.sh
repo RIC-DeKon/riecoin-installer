@@ -34,7 +34,7 @@ start_strap(){
 	mv * ~/.riecoin/
 	cd ~/Downloads/
 	rm -fr Riecoin_1414515_2020-11-30
-	#rm Riecoin_Blockchain.zip
+	rm Riecoin_Blockchain.zip
 	echo "Done. riecoin.conf sample Installation will start in 3s"
 	sleep 3
 }
